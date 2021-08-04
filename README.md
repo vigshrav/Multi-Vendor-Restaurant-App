@@ -1,16 +1,18 @@
-# home_chef
+# Multi Vendor Restaurant App
 
-A new Flutter project.
+A very simple app which supports restaurant order management and customer food ordering and monitoring app.
 
-## Getting Started
+Use this as a base to build further upon. Following features are supported:
 
-This project is a starting point for a Flutter application.
+1. Restaurant:
 
-A few resources to get you started if this is your first Flutter project:
+a. Create restaurant/ store
+b. Manage orders, menu, avatar and product images
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Customer:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+a. View Menu of multiple restaurants
+b. Order items from menu and track
+
+Supports only CoD, but can be easily extended to support PG using relevant Flutter plugins
+
