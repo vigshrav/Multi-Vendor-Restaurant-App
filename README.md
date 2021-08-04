@@ -1,3 +1,5 @@
+![Dash   Menu](https://user-images.githubusercontent.com/72376447/128132983-6e98719a-a903-4ce5-923d-83dc3aa2b2bd.png)
+![Order Page](https://user-images.githubusercontent.com/72376447/128133003-c62ebced-c36b-4c0d-aa5f-94dc421bdc69.png)
 # Multi Vendor Restaurant App
 
 A very simple app which supports restaurant order management and customer food ordering and monitoring app.
