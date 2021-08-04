@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645558308735",
+    "project_id": "homechef-c80c1",
+    "storage_bucket": "homechef-c80c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645558308735:android:9cc7f7b316b34dfcc6d44a",
+        "android_client_info": {
+          "package_name": "com.vigshrav.home_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645558308735-v48vg702v0tl1jk9l56d402qdh7gs6sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjm7TnneGIPwnP7xQQ8cmswVuX7CHj_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645558308735-v48vg702v0tl1jk9l56d402qdh7gs6sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
